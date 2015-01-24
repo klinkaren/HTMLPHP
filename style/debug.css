@@ -1,0 +1,11 @@
+@import url("stylesheet.css"); /* Import all styles from this file */
+ 
+/* add debug-information to some central elements
+--------------------------------------------------------
+*/
+body {background: beige;}
+header#above {background: blueviolet;}
+header#top {background: green; border: 1px dotted;}
+footer#bottom {background: red;}
+article {background: yellow;}
+div#content {border: 1px dashed;}
